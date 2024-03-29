@@ -26,8 +26,17 @@ p {
    text-align: center;
 }
 
+.styled-button2 {
+    background-color: #45a049;
+    font-size: 50px;
+    text-align: center;
+}
+
 styled-button:hover {
     background-color: #45a049;
 }    
 
+styled-button2:hover {
+    background-color: aqua;
+}
 
