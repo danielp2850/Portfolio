@@ -55,12 +55,6 @@ span{
     border-bottom: 3px solid aquamarine;
 }
 
-.portfolio-image {
-    display: block;
-    margin: auto;
-    max-width: 10%;
-}
-
 .contact {
     padding: 10px 28px;
     background-color: white;
@@ -148,5 +142,5 @@ span{
 
 .img-box img{
     border-radius: 50%;
-    width: 500px;
+    width: 80%;
 }
